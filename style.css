@@ -1,0 +1,1051 @@
+/*************** HOME *****************/
+
+#home img{
+    width: 500px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+html{
+    height: 100%
+}
+
+.home-menu svg{
+    width: 30px;
+}
+
+body{
+    font-family: sans-serif   
+    margin: 0
+    padding: 0    
+    height: 100%
+}
+
+.body-home{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-menu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid black;
+    
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    
+    height: 100%;
+}
+
+/*************** HEADER *****************/
+
+#header-menu{
+    background-color: #70c728;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    
+    position: fixed;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+#header-menu svg{
+    height: 30px;
+    float: left;
+    padding: 17px 0px 0px 17px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 660px;
+}
+
+#header-menu-item{
+    background-color: #5FB404;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    
+    position: fixed;
+    overflow: hidden;
+}
+
+#header-menu-item svg{
+    height: 30px;
+    float: left;
+    padding: 17px 0px 0px 17px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 660px;
+}
+
+/*************** MAIN *****************/
+
+.body-main{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#main img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#main h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#main h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#main h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** DRINKS *****************/
+
+.body-drinks{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#drinks img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#drinks-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#drinks h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#drinks h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#drinks h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** DESSERTS *****************/
+
+.body-desserts{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#desserts img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#desserts-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#desserts h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#desserts h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#desserts h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** STARTERS ****************/
+
+.body-starters{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#starter img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#starters-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#starter h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#starter h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#starter h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** KIDDIES *****************/
+
+.body-kiddies{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#kiddies img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#kiddies-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#kiddies h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#kiddies h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#kiddies h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** SIDES *****************/
+
+.body-sides{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#side img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+
+#sides-logo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#side h4{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#side h5{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+#side h6{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: 100;
+    margin: 10px;
+}
+
+/*************** PASTA *****************/
+
+.body-pasta{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pasta-platter img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 600px;
+}
+
+#pasta-platter h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#pasta-platter p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pasta-platter-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.pasta-platter-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pasta-platter-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pasta-platter-add-ons p{
+    text-align: center;
+}
+
+/*************** PRAWN *****************/
+
+.body-prawn{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#prawn-platter img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#prawn-platter h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#prawn-platter p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.prawn-platter-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.prawn-platter-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prawn-platter-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prawn-platter-add-ons p{
+    text-align: center;
+}
+
+/*************** CHICKEN *****************/
+
+.body-roast{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#roast-platter img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#roast-platter h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#roast-platter p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.chicken-platter-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.chicken-platter-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chicken-platter-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chicken-platter-add-ons p{
+    text-align: center;
+}
+
+/*************** KIMMCHI *****************/
+
+.body-kimchi{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#kimchi-soup img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#kimchi-soup h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#kimchi-soup p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.kimchi-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.kimchi-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kimchi-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kimchi-add-ons p{
+    text-align: center;
+}
+
+/*************** CHICKEN-SALAD *****************/
+
+.body-chicken-salad{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chicken-salad img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#chicken-salad h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#chicken-salad p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.chicken-salad-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.chicken-salad-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chicken-salad-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chicken-salad-add-ons p{
+    text-align: center;
+}
+
+/*************** PRAWN-SALAD *****************/
+
+.body-prawn-salad{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#prawn-salad img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#prawn-salad h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#prawn-salad p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.prawn-salad-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.prawn-salad-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prawn-salad-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prawn-salad-add-ons p{
+    text-align: center;
+}
+
+/*************** SPAGHETTI *****************/
+
+.body-spaghetti{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#spaghettie img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#spaghettie h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#spaghettie p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.spaghettie-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.spaghettie-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spaghettie-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spaghettie-add-ons p{
+    text-align: center;
+}
+
+/*************** NUGGETS *****************/
+
+.body-nuggets{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#nuggets img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#nuggets h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#nuggets p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.nuggets-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.nuggets-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nuggets-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nuggets-add-ons p{
+    text-align: center;
+}
+
+/*************** FISH *****************/
+
+.body-fish{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fish img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#fish h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#fish p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.fish-add-ons h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.fish-add-ons img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fish-add-ons input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fish-add-ons p{
+    text-align: center;
+}
+
+/*************** CHEESECAKE *****************/
+
+.body-cheesecake{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cheesecake img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#cheesecake h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#cheesecake p{
+    font-size: 30px;
+    text-align: center;
+}
+
+/*************** CHOCOLATE CAKE *****************/
+
+.body-chocolate-cake{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#chocolate-cake img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#chocolate-cake h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#chocolate-cake p{
+    font-size: 30px;
+    text-align: center;
+}
+
+/*************** ICECREAM *****************/
+
+.body-icecream{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#icecream img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#icecream h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#icecream p{
+    font-size: 30px;
+    text-align: center;
+}
+
+/*************** MILKSHAKE *****************/
+
+.body-milkshake{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#milkshake img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#milkshake h1{
+    font-family: fantasy;
+    font-size: 50px;
+    font-weight: 100;
+    text-align: center;
+}
+
+#milkshake p{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+/*************** ADDED NOTE *****************/
+
+#added-note h3{
+      text-align: center;
+}
+
+#added-note input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 50px;
+}
+
+/*************** PLACE ORDER *****************/
+
+#place-order a{
+    color: black;
+    background-color: #70c728;
+    width: 100px;
+    border: 5px solid black;
+    margin: 10px;
+}
+
+/*************** THANK YOU *****************/
+
+.body-thank{
+    background-image: url('images.html/wood-wallapaper-leaf.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-thank h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.body-thank p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
